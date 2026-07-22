@@ -1,0 +1,296 @@
+{
+  "versao": "3.0",
+  "atualizado_em": "2026-07-22T18:00:00-03:00",
+
+  "radio": {
+    "id": "terrafmformosa",
+    "nome": "Rádio Terra FM",
+    "frequencia": "87,9 FM",
+    "cidade": "Formosa",
+    "estado": "GO",
+    "pais": "Brasil",
+    "slogan": "A rádio que faz parte da sua vida.",
+    "descricao": "A Rádio Terra FM 87,9 de Formosa-GO leva música, informação, entretenimento e jornalismo para toda a região.",
+    "site": "https://terrafm87.com.br",
+
+    "logo": "https://SEU_GITHUB/logo.png",
+    "fundo": "https://SEU_GITHUB/background.jpg",
+
+    "streaming": {
+      "audio": "https://12.stmip.in:28376/stream",
+      "video": "https://6836041ea1117.streamlock.net:443/8096/8096/playlist.m3u8"
+    },
+
+    "metadados": {
+      "ativo": true,
+      "url": "",
+      "imagem_padrao": "https://SEU_GITHUB/logo.png"
+    }
+  },
+
+  "contato": {
+    "telefone": "(61) 99666-8790",
+    "whatsapp": "5561996668790",
+    "email": "",
+    "endereco": "Formosa - Goiás"
+  },
+
+  "redes_sociais": {
+    "site": "https://terrafm87.com.br",
+    "instagram": "https://www.instagram.com/terrafmformosa",
+    "facebook": "https://www.facebook.com/share/1CLMbd91cw/",
+    "youtube": "https://youtube.com/@terrafmformosa520",
+    "whatsapp": "https://wa.me/5561996668790"
+  },
+
+  "configuracoes": {
+    "mostrar_capa_album": true,
+    "mostrar_metadados": true,
+    "mostrar_historico": true,
+    "reproduzir_em_segundo_plano": true,
+    "video_habilitado": true
+  },
+
+  "notificacoes": {
+    "ativas": true,
+    "titulo": "Rádio Terra FM",
+    "mensagem": "Ouça agora a programação ao vivo!"
+  },
+
+  "programacao": {
+
+    "segunda_a_sexta": [
+      {
+        "inicio": "00:00",
+        "fim": "05:00",
+        "programa": "Frequência do Amor",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "05:00",
+        "fim": "07:00",
+        "programa": "Sertanejão da Terra",
+        "locutor": "Guirra Camargo"
+      },
+      {
+        "inicio": "07:00",
+        "fim": "09:00",
+        "programa": "Jornal da Terra",
+        "locutor": "Equipe Jornalística"
+      },
+      {
+        "inicio": "09:00",
+        "fim": "12:00",
+        "programa": "Programa Luís Rô",
+        "locutor": "Evelin Rô"
+      },
+      {
+        "inicio": "12:00",
+        "fim": "13:00",
+        "programa": "Radiola",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "13:00",
+        "fim": "17:00",
+        "programa": "Tarde Total",
+        "locutor": "Felipinho"
+      },
+      {
+        "inicio": "17:00",
+        "fim": "19:00",
+        "programa": "Sertanejaço",
+        "locutor": "Guirra Camargo"
+      },
+      {
+        "inicio": "19:00",
+        "fim": "21:00",
+        "programa": "Ritmo Perfeito",
+        "locutor": "Guirra Camargo"
+      },
+      {
+        "inicio": "21:00",
+        "fim": "22:00",
+        "programa": "A Voz do Brasil",
+        "locutor": "Agência Brasil"
+      },
+      {
+        "inicio": "22:00",
+        "fim": "00:00",
+        "programa": "Play Sertanejo",
+        "locutor": "Guirra Camargo"
+      }
+    ],
+
+    "sabado": [
+      {
+        "inicio": "00:00",
+        "fim": "05:00",
+        "programa": "Frequência do Amor",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "05:00",
+        "fim": "07:00",
+        "programa": "Violada Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "07:00",
+        "fim": "09:00",
+        "programa": "Terra Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "09:00",
+        "fim": "12:00",
+        "programa": "Ô de Casa",
+        "locutor": "Felipinho"
+      },
+      {
+        "inicio": "12:00",
+        "fim": "14:00",
+        "programa": "Clube da Esquina",
+        "locutor": "Paulinho MPB"
+      },
+      {
+        "inicio": "14:00",
+        "fim": "16:00",
+        "programa": "Sabadaço",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "16:00",
+        "fim": "17:00",
+        "programa": "Sem Parar",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "17:00",
+        "fim": "19:00",
+        "programa": "Conexão Mix",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "19:00",
+        "fim": "21:00",
+        "programa": "RB Music",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "21:00",
+        "fim": "23:00",
+        "programa": "Terra Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "23:00",
+        "fim": "00:00",
+        "programa": "Ritmos",
+        "locutor": "Automático"
+      }
+    ],
+
+    "domingo": [
+      {
+        "inicio": "00:00",
+        "fim": "05:00",
+        "programa": "Madrugada Amiga",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "05:00",
+        "fim": "07:00",
+        "programa": "Violada Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "07:00",
+        "fim": "09:00",
+        "programa": "Manhã Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "09:00",
+        "fim": "12:00",
+        "programa": "Saudade da Minha Terra",
+        "locutor": "Chiquinho Mini Homin"
+      },
+      {
+        "inicio": "12:00",
+        "fim": "13:00",
+        "programa": "Puro Pagode",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "13:00",
+        "fim": "17:00",
+        "programa": "Domingaço",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "17:00",
+        "fim": "19:00",
+        "programa": "Festa Sertaneja",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "19:00",
+        "fim": "21:00",
+        "programa": "Top Sertanejo",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "21:00",
+        "fim": "22:00",
+        "programa": "Brasileiraço",
+        "locutor": "Automático"
+      },
+      {
+        "inicio": "22:00",
+        "fim": "00:00",
+        "programa": "Raridades",
+        "locutor": "Automático"
+      }
+    ]
+  },
+
+  "locutores": [
+    {
+      "nome": "Guirra Camargo",
+      "foto": "https://SEU_GITHUB/locutores/guirra_camargo.jpg"
+    },
+    {
+      "nome": "Felipinho",
+      "foto": "https://SEU_GITHUB/locutores/felipinho.jpg"
+    },
+    {
+      "nome": "Evelin Rô",
+      "foto": "https://SEU_GITHUB/locutores/evelin_ro.jpg"
+    },
+    {
+      "nome": "Paulinho MPB",
+      "foto": "https://SEU_GITHUB/locutores/paulinho_mpb.jpg"
+    },
+    {
+      "nome": "Equipe Jornalística",
+      "foto": "https://SEU_GITHUB/locutores/equipe_jornalistica.jpg"
+    },
+    {
+      "nome": "Chiquinho Mini Homin",
+      "foto": "https://SEU_GITHUB/locutores/chiquinho_mini_homin.jpg"
+    }
+  ],
+
+  "promocoes": [],
+
+  "noticias": {
+    "rss": "",
+    "wordpress": ""
+  },
+
+  "aplicativos": {
+    "android": "",
+    "ios": ""
+  }
+}
