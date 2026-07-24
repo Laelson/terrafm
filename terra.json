@@ -24,7 +24,7 @@
     "metadados": {
       "ativo": true,
       "url": "",
-      "imagem_padrao": "https://SEU_GITHUB/logo.png"
+      "imagem_padrao": "https://raw.githubusercontent.com/Laelson/terrafm/refs/heads/main/logo.png"
     }
   },
 
@@ -76,7 +76,7 @@
         "inicio": "07:00",
         "fim": "09:00",
         "programa": "Jornal da Terra",
-        "locutor": "Equipe Jornalística"
+        "locutor": "Dr. Kclayton Costa"
       },
       {
         "inicio": "09:00",
@@ -265,16 +265,16 @@
       "foto": "https://SEU_GITHUB/locutores/felipinho.jpg"
     },
     {
-      "nome": "Evelin Rô",
-      "foto": "https://SEU_GITHUB/locutores/evelin_ro.jpg"
+      "nome": "Luis Rô",
+      "foto": "https://raw.githubusercontent.com/Laelson/terrafm/refs/heads/main/luis_ro.png"
     },
     {
       "nome": "Paulinho MPB",
-      "foto": "https://SEU_GITHUB/locutores/paulinho_mpb.jpg"
+      "foto": "https://raw.githubusercontent.com/Laelson/terrafm/refs/heads/main/Paulinho_mpb.jpeg"
     },
     {
-      "nome": "Equipe Jornalística",
-      "foto": "https://SEU_GITHUB/locutores/equipe_jornalistica.jpg"
+      "nome": "Dr. Kclayton Costa",
+      "foto": "https://raw.githubusercontent.com/Laelson/terrafm/refs/heads/main/Kclayton_costa.jpeg"
     },
     {
       "nome": "Chiquinho Mini Homin",
